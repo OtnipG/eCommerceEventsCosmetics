@@ -29,7 +29,7 @@ cart - a user added a product to shopping cart
 remove_from_cart - a user removed a product from shopping cart  
 purchase - a user purchased a product  
   
-# Kaggle References (~.5h)
+# Kaggle References (~0.5h)
 https://www.kaggle.com/code/khairizalalfath/data-preparation-and-stuffs  
 https://www.kaggle.com/code/chenjiawei0618/customer-data-analysis  
 https://www.kaggle.com/code/ahmedmussaa/cosmetics-shop-s-analysis-interactive-graphs  
@@ -39,7 +39,7 @@ https://www.kaggle.com/code/lesleyding/ecommerce-users-behavior-analysis
 https://www.kaggle.com/code/annettecatherinepaul/ecommerce-analysis-and-recommendations  
 https://www.kaggle.com/code/yihsiangyen/rfm-analysis-practice  
 https://www.kaggle.com/code/jianlizhou/customer-segmentation-by-rfm-model-and-k-means  
-  
+https://www.kaggle.com/code/vincentvaseghi/e-commerce-data-analysis-customer-segmentation  
   
 https://www.kaggle.com/code/jibion/sequence-sunburst-from-ecommerce-cosmetics  
 https://www.kaggle.com/code/wayasam/eda-fpmc-small  
